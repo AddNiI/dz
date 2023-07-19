@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+/*task 3*/
+.square{
+    animation-name: square;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-duration: 2000s;
+}
+
+@keyframes square{
+    from{
+            transform: translateX(0vw);
+    }
+
+    to{
+        transform: translateX(100vw);
+    }
+}
+/*task 1*/
+.square2{
+    border-radius: 90px;
+    animation-name: square2;
+    animation-iteration-count: 3;
+    animation-timing-function: linear;
+    animation-duration: 5s;
+}
+
+@keyframes square2{
+    0%{
+        background-color: #000;  
+    }
+
+    20%{
+        background-color: #00f;
+    }
+
+    40%{
+        background-color: #000fff;
+    }
+
+    60%{
+        background-color: #0ff;
+    }
+
+    80%{
+        background-color: #0fffff;
+    }
+
+    100%{
+        background-color: #fff;
+    }
+}
+/*task 2*/
+.button{
+    border-radius: 40px;
+    animation-name: button;
+    animation-iteration-count: 3;
+    animation-timing-function: linear;
+    animation-duration: 4s;
+}
+
+@keyframes button{
+    20%{
+        transform: scale(1.5);
+    }
+
+    80%{
+        transform: scale(1.5);;
+    }
+}
