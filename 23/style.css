@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+.rect{
+    stroke:#ffffffff; 
+    stroke-width:4;
+}
+
+.rect:hover{
+    stroke:#ffffff00; 
+}
