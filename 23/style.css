@@ -10,3 +10,7 @@ body{
 .rect:hover{
     stroke:#ffffff00; 
 }
+
+.circ{
+    width: 170px;
+}
