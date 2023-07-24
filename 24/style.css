@@ -1,0 +1,105 @@
+.logo{
+    margin: 31px 93px 32px 215px;
+}
+
+html{
+    width: 1600px;
+}
+
+.navig{
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 500;
+    color: #212121;
+    text-decoration: none;
+}
+
+.navig:hover{
+    color: #2196F3;
+}
+
+.smokers_nav{
+    width: 281px;
+    margin: 32px 318px 32px 0;
+}
+
+header{
+    display: flex;
+}
+
+.mail{
+    margin: 32px 10px 32px 0;
+}
+.book{
+    margin: 32px 10px 32px 30px;
+}
+
+svg:hover{
+    fill: #2196F3;
+}
+
+.sv1{
+    fill: #757575;
+    margin: 28.5px 0;
+}
+
+.sg2{
+    margin-left: 30px;
+}
+
+.AFB1B8{
+    fill: #AFB1B8;
+}
+
+.wig{
+    fill: white;
+}
+
+.AFB1B8:hover{
+    fill: #ffffff;
+}
+
+.wig:hover{
+    fill: #2196F3;
+}
+
+.strABB{
+    stroke: #AFB1B8;
+}
+
+.strABB:hover{
+    stroke: #2196F3;
+}
+
+.wig1{
+    fill: #ffffff;
+    margin-left: 30px;
+}
+
+.wig1:hover{
+    fill: #ffffff;
+}
+
+
+.AFB1B8a:hover{
+    fill: #2196F3;
+}
+
+.AFB1B8a{
+    fill: #AFB1B8;
+}
+
+.wig2:hover{
+    fill: #2196F3;
+}
+
+.AFB1B8b{
+    fill: #ffffff;
+}
+
+.wig2{
+    fill: rgba(255, 255, 255, 0.10);
+}
+
+footer{
+    background: #2F303A;
+}
