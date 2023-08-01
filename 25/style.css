@@ -1,0 +1,27 @@
+.pca{
+    position: relative;
+    left: -374px;
+}
+
+.npa{
+    position: relative;
+    left: -374px;
+}
+
+.nsd{
+    position: relative;
+    left: -374px;
+}
+
+.rect3{
+    position: relative;
+    left: -508px;
+    bottom: -100px;
+}
+
+.rect2{
+    position: relative;
+    left: -250px;
+    bottom: -50px;
+    z-index: 4;
+}
