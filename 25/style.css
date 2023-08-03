@@ -1,16 +1,18 @@
 .pca{
-    position: relative;
-    left: -374px;
+    position: absolute;
+    left: 8px;
+    bottom: 574px;
 }
 
 .npa{
-    position: relative;
-    left: -374px;
+    position: absolute;
+    left: 382px;
+    bottom: 574px;
 }
 
 .nsd{
-    position: relative;
-    left: -374px;
+    position: absolute;
+    bottom: 574px;
 }
 
 .rect3{
@@ -25,3 +27,4 @@
     bottom: -50px;
     z-index: 4;
 }
+==
