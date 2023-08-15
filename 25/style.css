@@ -1,0 +1,30 @@
+.pca{
+    position: absolute;
+    left: 8px;
+    bottom: 578px;
+}
+
+.npa{
+    position: absolute;
+    left: 382px;
+    bottom: 578px;
+}
+
+.nsd{
+    position: absolute;
+    bottom: 578px;
+}
+
+.rect3{
+    position: relative;
+    left: -508px;
+    bottom: -100px;
+}
+
+.rect2{
+    position: relative;
+    left: -250px;
+    bottom: -50px;
+    z-index: 4;
+}
+==
