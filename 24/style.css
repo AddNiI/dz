@@ -235,7 +235,6 @@ body{
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.42px;
-    text-decoration-line: underline;
 }
 
 .seyoso{
@@ -318,4 +317,101 @@ body{
 
 .is-hidden{
     display: none;
+}
+
+.text{
+    width: 696px;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 2.64px;
+    text-transform: uppercase;
+    position: relative;
+    top: -444px;
+    left: 452px;
+}
+
+.butt{
+    position: relative;
+    top: -520px;
+    left: 710px;
+}
+
+.rigth{
+    position: relative;
+    left: 1078px;
+}
+
+.HM{
+    color: #212121;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+    height: 48px;
+    text-decoration: none;
+    margin: 32px 51px 28px 0;
+
+}
+
+.HM::after{
+    color: #2196F3;
+}
+
+.undl{
+    position: relative;
+    right: 72px;
+    top: 32px;
+}
+
+.ow{
+    overflow: hidden;
+    height: 30px;
+}
+
+.ow::after{
+    overflow: visible;
+}
+
+.tich2{
+    color: #212121;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 1.08px;
+    padding-left: 24px;
+    padding-bottom: 4px;
+}
+
+.ticp{
+    color: #757575;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.48px;
+    padding-left: 24px;
+}
+
+.card{
+    width: 370px;
+    height: 404px;
+    border: 1px solid #EEE;
+    background: #FFF;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.cardgrub{
+    margin-left: 215px;
+    display: flex;
 }
