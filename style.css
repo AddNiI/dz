@@ -2,12 +2,13 @@
     font-family: 'Kanit', sans-serif;
     padding-left: 50px;
     width: 1015px;
+    color: #eee;
 }
 
 .upmain{
     display: flex;
     padding-top: 20px;
-    background-color: #e3f2fd;
+    background-color: rgb(52, 58, 64);
 }
 
 .kanit{
@@ -28,5 +29,30 @@ body{
 }
 
 .ftrcol{
-    background-color: #e3f2fd;
+    margin-top: 50px;
+    background-color: rgb(52, 58, 64);
+}
+
+.cardblock{
+    display: flex;
+}
+
+.cardwidth{
+    width: 160px;
+}
+
+.cardleftpad{
+    margin-left: 50px;
+}
+
+.cardheight{
+    margin-top: 43px;
+}
+
+.cardheight2{
+    margin-top: 157px;
+}
+
+.cardheight3{
+    margin-top: 75px;
 }
