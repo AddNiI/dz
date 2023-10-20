@@ -15,8 +15,8 @@
     font-family: 'Kanit', sans-serif;
 }
 
-body{
-    display: block;
+main{
+    background-color: rgba(92, 100, 110, 0.137);
 }
 
 .ipomain{
@@ -29,12 +29,15 @@ body{
 }
 
 .ftrcol{
-    margin-top: 50px;
+    padding-top: 50px;
     background-color: rgb(52, 58, 64);
+    display: flex;
 }
 
 .cardblock{
     display: flex;
+    padding-bottom: 50px;
+    padding-top: 10px;
 }
 
 .cardwidth{
@@ -55,4 +58,14 @@ body{
 
 .cardheight3{
     margin-top: 75px;
+}
+
+.ftrlogo{
+    font-family: 'Kanit', sans-serif;
+    padding-left: 50px;
+    color: #eee;
+}
+
+.vidstan{
+    padding-left: 150px;
 }
