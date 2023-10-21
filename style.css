@@ -57,6 +57,10 @@ main{
     padding-left: 150px;
 }
 
+.cardheight0{
+    padding-top: 56px;
+}
+
 .cardheight1{
     padding-top: 63px;
 }
@@ -67,6 +71,10 @@ main{
 
 .cardheight3{
     padding-top: 100px;
+}
+
+.cardheight4{
+    padding-top: 76px;
 }
 
 .cardwidth1{
