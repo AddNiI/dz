@@ -80,3 +80,31 @@ main{
 .cardwidth1{
     width: 110px;
 }
+
+.logo1{
+    width: 1248px;
+}
+
+.buypagemain{
+    background-color: white;
+}
+
+.img{
+    width: 500px;
+}
+
+.name{
+    padding-left: 30px;
+    width: 370px;
+}
+
+.charh{
+    font-size: 25px;
+    line-height: 35px;
+    padding-top: 30px;
+}
+
+.about{
+    width: 330px;
+    padding-left: 10px;
+}
