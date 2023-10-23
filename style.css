@@ -69,6 +69,10 @@ main{
     padding-top: 200px;
 }
 
+.cardheight5{
+    padding-top: 177px;
+}
+
 .cardheight3{
     padding-top: 100px;
 }
@@ -131,4 +135,10 @@ main{
 
 .name2{
     margin-left: 130px;
+}
+
+.charh2{
+    width: 330px;
+    padding-right: 30px;
+    padding-top: 77px;
 }
