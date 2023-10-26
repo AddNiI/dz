@@ -1,28 +1,144 @@
-.but{
-    background-color:#fff;
-    color: #626262;
-    width: 165px;
-    height: 60px;
-    border: 1px solid #626262;
-    display: block;
-    transition: background-color 500ms, color 1s;
+.logo{
+    font-family: 'Kanit', sans-serif;
+    padding-left: 50px;
+    width: 1015px;
+    color: #eee;
 }
 
-.but:hover{
-    color:aliceblue;
-    background-color: aliceblue;
+.upmain{
+    display: flex;
+    padding-top: 20px;
+    background-color: rgb(52, 58, 64);
 }
 
-.wit{
-    transition-duration: 100s;
-    transition-timing-function: linear;
-    transition-delay: 100s;
-    transition-property: all;
-    width: 50px;
-    height: 50px;
+.kanit{
+    font-family: 'Kanit', sans-serif;
 }
 
-.wit:hover{
-    width: 75px;
-    height: 75px;
+main{
+    background-color: rgba(92, 100, 110, 0.137);
+}
+
+.h2ip{
+    padding-left: 610px;
+}
+
+.ftrcol{
+    padding-top: 10px;
+    background-color: rgb(52, 58, 64);
+    display: flex;
+}
+
+.cardblock{
+    display: flex;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.cardwidth{
+    width: 155px;
+}
+
+.cardleftpad{
+    margin-left: 50px;
+}
+
+.cardheight{
+    margin-top: 80px;
+}
+
+.ftrlogo{
+    font-family: 'Kanit', sans-serif;
+    padding-left: 50px;
+    color: #eee;
+}
+
+.vidstan{
+    padding-left: 150px;
+}
+
+.cardheight0{
+    padding-top: 56px;
+}
+
+.cardheight1{
+    padding-top: 63px;
+}
+
+.cardheight2{
+    padding-top: 200px;
+}
+
+.cardheight5{
+    padding-top: 177px;
+}
+
+.cardheight3{
+    padding-top: 100px;
+}
+
+.cardheight4{
+    padding-top: 76px;
+}
+
+.cardwidth1{
+    width: 110px;
+}
+
+.logo1{
+    width: 1248px;
+}
+
+.buypagemain{
+    background-color: white;
+}
+
+.img{
+    width: 500px;
+}
+
+.name{
+    padding-left: 30px;
+    width: 370px;
+}
+
+.charh{
+    font-size: 25px;
+    line-height: 35px;
+    padding-top: 30px;
+}
+
+.about{
+    width: 330px;
+    padding-left: 10px;
+}
+
+.img2{
+    width: 310px;
+}
+
+.img3{
+    width: 350px;
+}
+
+.img4{
+    width: 400px;
+}
+
+.img5{
+    width: 295px;
+}
+
+.img6{
+    width: 305px;
+}
+
+.name2{
+    margin-left: 130px;
+}
+
+.charh2{
+    width: 330px;
+    padding-right: 30px;
+    padding-top: 77px;
 }
