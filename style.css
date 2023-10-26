@@ -24,7 +24,7 @@ main{
 }
 
 .ftrcol{
-    padding-top: 50px;
+    padding-top: 10px;
     background-color: rgb(52, 58, 64);
     display: flex;
 }
